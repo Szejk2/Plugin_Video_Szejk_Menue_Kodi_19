@@ -1,9 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 1 [/B][/COLOR][/I]
+#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 1 - Swift [/B][/COLOR][/I]
+https://github.com/Szejk2/Telewizja_M3U/blob/main/TV_Swift.m3u
 
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 2 [/B][/COLOR][/I]
+#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 2 - Internetowa [/B][/COLOR][/I]
+https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/TV_1.m3u
 
 #EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 3 [/B][/COLOR][/I]
+https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Telewizja_2.m3u
+
+#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 4 - Internetowa [/B][/COLOR][/I]
+https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_internetowa.m3u
+
+#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 5 - Internetowa [/B][/COLOR][/I]
+https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_internetowa2.m3u
+
+#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 6 [/B][/COLOR][/I]
+https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_tv2.m3u
+
+#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 7 - VIP 1 [/B][/COLOR][/I]
+https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_vip.m3u
+
+#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 8 - VIP 2 [/B][/COLOR][/I]
+https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_vip2.m3u
 
 #EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 4 [/B][/COLOR][/I]
