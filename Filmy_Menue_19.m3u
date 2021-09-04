@@ -1,7 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Filmy [/B][/COLOR][/I]
-https://raw.githubusercontent.com/Szejk2/Filmy_M3U/main/Filmy_Szejk.m3u
+#EXTINF:-1 tvg-logo="https://ekranik.tv/img/ekranik_logo_primary.png?v=2", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - Ekranik.TV  [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Ekranik_TV.m3u
+#EXTINF:-1 tvg-logo="https://ia601905.us.archive.org/16/items/go-vod-tv/GoVodTV.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - GoVod.TV  [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/GoVod_TV.m3u
+#EXTINF:-1 tvg-logo="https://ia801909.us.archive.org/16/items/hejo-tv/HejoTV.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - Hejo.TV  [/B][/COLOR][/I] 
+https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Hejo_TV.m3u
+#EXTINF:-1 tvg-logo="https://ia801909.us.archive.org/13/items/internetowa-tv/InternetowaTV.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - Internetowa.TV  [/B][/COLOR][/I] 
+https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Internetowa_TV.m3u
+#EXTINF:-1 tvg-logo="https://patrz.pl/static/img/logo.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - Patrz.PL  [/B][/COLOR][/I] 
+https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Patrz_PL.m3u
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2019/11/vod-263663.jpeg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - VOD [/B][/COLOR][/I] 
+https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/VOD.m3u
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2019/11/vod-263663.jpeg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - VOD 1 [/B][/COLOR][/I] 
+https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/VOD_1.m3u
+#EXTINF:-1 tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2019/11/vod-263663.jpeg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - VOD 2 [/B][/COLOR][/I] 
+https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/VOD_2.m3u
 
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Filmy [/B][/COLOR][/I]
+#EXTINF:-1 tvg-logo="https://archive.org/download/zalukajvip/zalukajvip.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - OFFLINE  [/B][/COLOR][/I] 
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/zalukajvip/zalukajvip.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Filmy - OFFLINE [/B][/COLOR][/I] 
