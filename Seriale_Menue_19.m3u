@@ -1,23 +1,132 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Altered Carbon [/B][/COLOR][/I]
-https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/Altered_Carbon.m3u
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Ghost Wars [/B][/COLOR][/I]
-https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/Ghost_Wars.m3u
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Mitomanka [/B][/COLOR][/I]
-https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/Mitomanka.m3u
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Obsesja [/B][/COLOR][/I]
-https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/Obsesja.m3u
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Templariusze [/B][/COLOR][/I]
-https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/Templariusze.m3u
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Upload [/B][/COLOR][/I]
-https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/Upload.m3u
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - W Cieniu [/B][/COLOR][/I]
-https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/W_Cieniu.m3u
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Wataha [/B][/COLOR][/I]
-https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/Wataha.m3u
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Westworld [/B][/COLOR][/I]
-https://raw.githubusercontent.com/Szejk2/Seriale_M3U/main/Westworld.m3u
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - [/B][/COLOR][/I]
-
-#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] Serial - [/B][/COLOR][/I]
+#EXTINF:-1 tvg-logo="https://image.ceneostatic.pl/data/products/1189190/i-07-zglos-sie-dvd.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - 07 Zgłoś Się [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/07_Zgłos_Sie.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/47/69/804769/7866076.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - 1983 [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/1983.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/43/42/844342/7930471.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - 25 lat Niewinności.Sprawa Tomka Komendy [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/25_lat_Niewinnosci_Sprawa_Tomka_Komendy.m3u
+#EXTINF:-1 tvg-logo="https://www.omnycontent.com/d/programs/d83f52e4-2455-47f4-982e-ab790120b954/a3aca008-52d2-416b-b0e8-acd10173c6d8/image.jpg?t=1613515744&size=Large", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Allen v Farrow [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Allen_v_Farrow.m3u
+#EXTINF:-1 tvg-logo="https://i.iplsc.com/andnbsp-blok-znany-z-serialu-alternatywy-4-obecnie-miesci-si/0000XW0QTTP394QE-C122-F4.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Alternatywy 4 [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Alternatywy_4.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/33/43/823343/7939000.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Bastion - Stand [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Bastion_Stand.m3u
+#EXTINF:-1 tvg-logo="https://i.iplsc.com/-/0006Q1FHXMCVB17V-C460.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Botoks [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Botoks.m3u
+#EXTINF:-1 tvg-logo="https://img.csfd.cz/files/images/film/posters/162/308/162308084_005140.jpg?w370h370", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Brytania [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Brytania.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/73/34/867334/7947032.2.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Chylka - Inwigilacja [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Chylka_Inwigilacja.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/34/67/843467/7904732.6.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Chylka - Kasacja [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Chylka_Kasacja.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/87/99/848799/7933372.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Chylka - Rewizja [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Chylka_Rewizja.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/25/39/812539/7870443.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Chylka - Zaginiecie [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Chylka_Zaginiecie.m3u
+#EXTINF:-1 tvg-logo="https://static.punkt44.pl/grafika/produkty/midi/8801_0003.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Czarne Chmury [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Czarne_Chmury.m3u
+#EXTINF:-1 tvg-logo="https://www.gloskultury.pl/wp-content/uploads/2019/06/Czarnobyl-plakat.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Czarnobyl [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Czarnobyl.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/51/55/35155/7671049.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Czterej Pancerni i Pies [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Czterej_Pancerni.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/50/24/35024/7057974.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Daleko od Szosy [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Daleko_od_Szosy.m3u
+#EXTINF:-1 tvg-logo="https://img.freedisc.pl/photo/10280963/2/l/long-road-home-the-duga-droga-do-domu-2017-serial-tv.png", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Dluga Droga do Domu [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Dluga_droga_do_domu.m3u
+#EXTINF:-1 tvg-logo="https://s6.ifotos.pl/img/domzpap2j_qswwpwr.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Dom z Papieru [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Dom_z_Papieru.m3u
+#EXTINF:-1 tvg-logo="https://assets.upflix.pl/media/plakat/2021/era-samurajow-bitwa-o-japonie_1__300_427.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Era Samurajow Bitwa o Japonie [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Era_Samurajow_Bitwa_o_Japonie.m3u
+#EXTINF:-1 tvg-logo="https://ia601402.us.archive.org/12/items/sky-gangs-of-london/Sky_Gangs of London.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Gangs of London [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Gangs%20_of_London.m3u
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1vvzKWhbwL.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Gra o Tron [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Gra_o_Tron.m3u
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81NCgm4Y0sL.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Grzesznica [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Grzesznica.m3u
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/30/64/833064/7915246.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Hollywood [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Hollywood.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI0ODcwODAtYzZjOS00ZmQ3LWE4ZGItOWMwYTI0Y2YyYWMyXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Inhumans [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Inhumans.m3u
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91wOqe2B30L._SL1500_.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Jak Rozpetalem II Wojnę światową [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Jak_Rozpetalem_II_Wojne_Swiatowa.m3u
+#EXTINF:-1 tvg-logo="https://i8.lisimg.com/6728038/280full.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Janosik [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Janosik.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/58/60/35860/7290277.6.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Kariera Nikodema Dyzmy [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Nikodema_Dyzmy.m3u
+#EXTINF:-1 tvg-logo="https://assets.upflix.pl/media/plakat/2018/kobiety-mafii__300_427.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Kobiety Mafii [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Kobiety_Mafii.m3u
+#EXTINF:-1 tvg-logo="https://whatsondisneyplus.com/wp-content/uploads/2019/11/CA7B0C0F-06BA-4120-AA3E-D478BEEEF02D.jpeg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Kosmos [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Kosmos.m3u
+#EXTINF:-1 tvg-logo="https://fr.web.img2.acsta.net/pictures/19/08/21/16/56/5942452.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Lepsi Niż My [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Lepsi_Niz_My.m3u
+#EXTINF:-1 tvg-logo="https://alltube.com.pl/static/img/covers/23353.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - List do Mojego Idola - DEAR [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/List_do_Mojego_Idola_DEAR.m3u
+#EXTINF:-1 tvg-logo="http://de.web.img3.acsta.net/pictures/20/12/02/17/45/3103184.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Lupin [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Lupin.m3u
+#EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Making A Murderer [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Making_A_Murderer.m3u
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/52rnZ7v2u7NVZ_05Ey9IxKIWB4GPHh-TolyXWk7TF6sh1GrqDUZ7YZoVFMY0AISsPycjt0bjCQ_r492aH5zHBV3lAlYHJycr-R27LotNBJvsrfii8-7wFg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Manhunt - Unabomber [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Manhunt_Unabomber.m3u
+#EXTINF:-1 tvg-logo="https://scdn.nflximg.net/images/9810/21939810.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Narcos [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Narcos.m3u
+#EXTINF:-1 tvg-logo="https://posterspy.com/wp-content/uploads/2019/01/upload-NARCOS-80424-copy-800x1062.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Narcos: Meksyk [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Narcos_Meksyk.m3u
+#EXTINF:-1 tvg-logo="https://movie2uhd.com/wp-content/uploads/2020/05/The-Last-Dance-201x300.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Ostatni Taniec [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Ostatni_Taniec.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/66/14/736614/7766128.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Pakt [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Pakt.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/88/26/848826/7928883.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Petla [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Petla.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzNjYWI4MzYtMDI5Ni00Y2IyLTk4MGYtMGNlYmJlMjMwMGY0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Projekt Niewinność [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Projekt_Niewinnosc.m3u
+#EXTINF:-1 tvg-logo="https://i.wpimg.pl/0/389x600/i.wp.pl/a/f/film/008/16/62/0306216.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Protektor [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Protektor.m3u
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/96/21/809621/7856941.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Pulapka [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Pulapka.m3u
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/516KdchuvtL.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Queen of the South [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Queen_of_the_South.m3u
+#EXTINF:-1 tvg-logo="https://offhandreviews.files.wordpress.com/2015/12/rome-season-1-poster.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Rzym [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Rzym.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/96/47/839647/7903503.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - See [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/See.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/65/25/786525/7858245.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Slepnac od Swiatel [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Slepnac_od_Swiatel.m3u
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2M1ZGRhYzYtMTEwYi00NmIyLWE1ZWQtODAxNjJiNzIwMmY3XkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Solid Gold - Bez Skrupułów [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Solid_Gold.m3u
+#EXTINF:-1 tvg-logo="https://media.merlin.pl/media/original/000/004/093/56ba961258ae8.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Stawka większa Niż Zycie [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Stawka_Wieksza.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/94/56/779456/7845605.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Sukcesja [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Sukcesja.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/21/85/842185/7920842.6.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Szadź [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Szadz.m3u
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z1K4mJwISETia59rrnMdXxzoSrZ.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - The Good Doctor [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/The_Good_Doctor.m3u
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-q6VBkiXYvk4/XDynbw_N8EI/AAAAAAABsbg/W_kpspBD4jk-60vUJStLg1ef4-TI0udRACLcBGAs/s1600/8J2ci62.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - The Long Song [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/The_Long_Song.m3u
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EjQUBNXU8AAXqvT.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - The Mandalorian [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/The_Mandalorian.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/12/44/11244/7317254.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Tulipan [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Tulipan.m3u
+#EXTINF:-1 tvg-logo="https://st.kp.yandex.net/images/film_iphone/iphone360_1127489.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Upload [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Upload.m3u
+#EXTINF:-1 tvg-logo="https://cdn.hbogo.eu/images/51DBA88E-A959-401D-9B10-259C63325C2B/1280_720.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - W Domu - En Casa [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/W_Domu_En_Casa.m3u
+#EXTINF:-1 tvg-logo="https://filman.cc/public/static/poster/big/2823-series.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - W Glebi Lasu [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/W_Glebi_Lasu.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/12/02/851202/7920775.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Warto się Starać [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Warto_sie_Starac.m3u
+#EXTINF:-1 tvg-logo="https://www.newsslash.com/images/upload/tag_teaser/5060-wataha.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Wataha [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Wataha.m3u
+#EXTINF:-1 tvg-logo="https://ssl-gfx.filmweb.pl/po/44/64/724464/7905524.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Wiedzmin [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Wiedzmin.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/92/26/829226/7897295.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Zawsze Warto [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Zawsze_Warto.m3u
+#EXTINF:-1 tvg-logo="https://cache.pressmailing.net/content/68631db6-f349-435f-a75a-8397dbdd45af/Sky_ZeroZeroZero_Poster.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Zero Zero Zero [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Zero.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rcXq4QnzsmG5UdJnFxMSVbnpcnT.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Zmiennicy [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Zmiennicy.m3u
+#EXTINF:-1 tvg-logo="https://fwcdn.pl/fpo/35/95/833595/7900065.3.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Żmijowisko [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Zmijowisko.m3u
+#EXTINF:-1 tvg-logo="https://i.iplsc.com/znaki-wyrezyserowali-jakub-miszczak-i-marcin-ziebinski/0007KDN879QWD3ER-C122-F4.jpg", [B][I][COLOR dodgerblue]The Samsung Freak[/B][/COLOR][/I] - [B][I][COLOR white] Serial - Znaki [/B][/COLOR][/I]
+https://raw.githubusercontent.com/TheSamsungFreak/Seriale_PL_M3U/main/Znaki.m3u
