@@ -1,4 +1,4 @@
-ftp://szejkflix@mkwk107.cba.pl/szejkflix.cba.pl/uhd2.m3u#EXTM3U
+
 
 #EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 1 - Swift [/B][/COLOR][/I]
 https://github.com/Szejk2/Telewizja_M3U/blob/main/TV_Swift.m3u
@@ -25,3 +25,4 @@ https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_vip.m3u
 https://raw.githubusercontent.com/Szejk2/Telewizja_M3U/main/Polska_vip2.m3u
 
 #EXTINF:-1 tvg-logo="", [B][I][COLOR dodgerblue]Szejk[/B][/COLOR][/I] - [B][I][COLOR white] TV 9 - uhd [/B][/COLOR][/I]
+https://raw.githubusercontent.com/Szejk2/Plugin_Video_Szejk_Menue_Kodi_19/main/TV_Menue_19.m3u
